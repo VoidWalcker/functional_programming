@@ -1,0 +1,16 @@
+.vscode/
+*.log
+.classpath
+.settings/
+.agents/
+.idea/
+.bsp/
+.metals/
+
+target/
+project/target/
+project/project/
+
+*.iml
+*.iws
+.DS_Store
